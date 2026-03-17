@@ -8,6 +8,14 @@ Um jogo arcade shooter 2D desenvolvido do zero em **Java puro com Swing**, sem n
 
 ---
 
+## 📸 Screenshots
+
+| Screenshots |
+|-------------|
+| ![Menu](assets/menu.png) |
+| ![Gameplay](assets/gameplay.png) |
+| ![Créditos](assets/credits.png) |
+
 ## 🎮 Gameplay
 
 > Sobreviva o maior tempo possível, destrua inimigos, enfrente bosses e colete power-ups!
