@@ -830,11 +830,11 @@ public class GamePanel extends JPanel implements Runnable {
                         }
 
                         // TEMPO
-                        drawShadowText(g, "TEMPO", 340, 35, titleFont, Color.LIGHT_GRAY);
+                        drawShadowText(g, "TIME", 340, 35, titleFont, Color.LIGHT_GRAY);
                         drawShadowText(g, formatTime(survivalTicks), 340, 60, valueFont, Color.WHITE);
 
                         // ONDA
-                        drawShadowText(g, "ONDA", 450, 35, titleFont, Color.LIGHT_GRAY);
+                        drawShadowText(g, "WAVE", 450, 35, titleFont, Color.LIGHT_GRAY);
                         drawShadowText(g, String.valueOf(wave), 450, 60, valueFont, Color.CYAN);
 
                         if (boss != null) {
