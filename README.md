@@ -1,10 +1,18 @@
 # 🚀 Aero Fighters — 2D Space Shooter
 
+🎮 Projeto de jogo 2D desenvolvido do zero em Java, aplicando conceitos de Programação Orientada a Objetos, game loop, gerenciamento de estados e arquitetura de software.
+
 Um jogo arcade shooter 2D desenvolvido do zero em **Java puro com Swing**, sem nenhuma game engine.
 
 ![Java](https://img.shields.io/badge/Java-17%2B-orange?style=flat-square&logo=java)
 ![Swing](https://img.shields.io/badge/UI-Java%20Swing-blue?style=flat-square)
 ![Status](https://img.shields.io/badge/Status-Completo-green?style=flat-square)
+
+---
+
+## 👨‍💻 Sobre o Projeto
+
+Projeto desenvolvido individualmente, sendo responsável por toda a arquitetura, lógica de jogo, implementação de mecânicas, sistema de áudio e interface.
 
 ---
 
@@ -15,6 +23,8 @@ Um jogo arcade shooter 2D desenvolvido do zero em **Java puro com Swing**, sem n
 | ![Menu](assets/menu.png) |
 | ![Gameplay](assets/gameplay.png) |
 | ![Créditos](assets/credits.png) |
+
+---
 
 ## 🎮 Gameplay
 
@@ -71,6 +81,28 @@ Um jogo arcade shooter 2D desenvolvido do zero em **Java puro com Swing**, sem n
 | `ENTER` | Confirmar no menu |
 
 ---
+
+## 🧠 Conceitos Aplicados
+
+- Programação Orientada a Objetos (POO)
+- Game Loop
+- Gerenciamento de Estado
+- Detecção de Colisão
+- Estruturas de Dados
+- Arquitetura de Software
+- Multithreading (CopyOnWriteArrayList)
+
+---
+
+## 🧩 Desafios
+
+- Implementar game loop estável com 60 FPS
+- Gerenciar múltiplos estados de jogo
+- Criar sistema de colisão eficiente
+- Sincronizar listas de entidades com segurança (multithreading)
+
+---
+
 
 ## 🏗️ Arquitetura
 
